@@ -1,5 +1,4 @@
 import PySimpleGUI as sg
-from os import system, name
 
 sg.theme("DarkGrey10")
 
